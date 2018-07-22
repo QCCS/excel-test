@@ -51,7 +51,6 @@ var buffer = xlsx.build(data);
 //     }
 // );
 
-
 //读取一个表格
 var obj = xlsx.parse("./" + "source822.xlsx");
 // console.log(obj);
